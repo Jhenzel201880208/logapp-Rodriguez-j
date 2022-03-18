@@ -1,1 +1,1 @@
-# logapp-Rodriguez-j
+# LogApp
