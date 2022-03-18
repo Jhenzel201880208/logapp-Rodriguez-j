@@ -1,4 +1,7 @@
 {
+ "name": "[Jhenzel201880208/logapp-Rodriguez-j]",
+ "type": "project",
+ "minimum-stability": "stable",
     "require": {
         "twig/twig": "1.13.*"
     }
